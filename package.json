@@ -1,0 +1,29 @@
+{
+  "name": "@syednashikaman/currying",
+  "version": "0.1.0",
+  "description": "Make partial functions with currying!",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedAman/currying.git"
+  },
+  "keywords": [
+    "curry",
+    "javascript",
+    "es5",
+    "assert",
+    "node"
+  ],
+  "author": "Syed Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyedAman/currying/issues"
+  },
+  "homepage": "https://github.com/SyedAman/currying#readme"
+}
